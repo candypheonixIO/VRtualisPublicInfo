@@ -3,28 +3,11 @@
         {
             "id": 1,
             "name": "SmolCookie",
-            "teamID": [
-                {
-                    "id": 1
-                },
-                {
-                    "id": 3
-                }
-            ]
-        }
-    ],
-    "team": [
-        {
-            "id": 1,
-            "TeamName": "Logix Wizard"
-        },
-        {
-            "id": 2,
-            "TeamName": "Enviroment Artist"
-        },
-        {
-            "id": 3,
-            "TeamName": "Model Artist"
+            "teams": {
+                "Logix": true,
+                "EnviromentalArt": false,
+                "ModelArt": true
+            }
         }
     ]
 }
