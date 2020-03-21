@@ -1,10 +1,9 @@
-[
+{
+    "members": [
         {
             "id": 1,
             "name": "SmolCookie",
-            "teams": {
-                "Logix": true,
-                "EnviromentalArt": false,
-                "ModelArt": true
-            }
+            "teamID": {"Logix": true, "Eviromental": false, "Models": true}
         }
+    ]
+}
