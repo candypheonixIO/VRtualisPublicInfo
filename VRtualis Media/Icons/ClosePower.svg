@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-Close_Power_1">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="Close_Power_1" data-name="Close / Power – 1" clip-path="url(#clip-Close_Power_1)">
+    <g id="Group_25" data-name="Group 25" transform="translate(37 44)">
+      <path id="Path_18" data-name="Path 18" d="M2350.433,2732s-27.1,13.22-27.1,41.87,24.043,48.481,48.855,48.481,51.145-18.7,51.145-48.481S2397,2732,2397,2732" transform="translate(-2282 -2686.932)" fill="none" stroke="#50717b" stroke-linecap="round" stroke-width="16"/>
+      <line id="Line_17" data-name="Line 17" y1="48" transform="translate(91.238 33.5)" fill="none" stroke="#8ecccc" stroke-linecap="round" stroke-width="16"/>
+    </g>
+  </g>
+</svg>
