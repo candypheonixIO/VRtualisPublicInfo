@@ -16,5 +16,13 @@
         "body": "For any and all NeosVR players looking for a new Cloud Home to live your days in the metaverse in, look no further than our first official metahome, aiming to simulate what it would be like to live in the Urban streets of Paris.",
         "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-22%2016.16.40.jpg?raw=true",
         "blogImgCredit": "VRtualis"
-    }
+    },
+    {
+        "id": 2,
+        "title": "Modern Metahome",
+        "headline": "A VRtualis Metahome made with baked lighting!",
+        "subhead": "Baked lighting is amazing",
+        "body": "For most worlds in NeosVR, Baked lighting is a dream to have, but for us at VRtualis, we have our methods of creating, performant, and beutiful Reflections, and Lightmap data that is NeosVR friendly.",
+        "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-29%2020.55.09.jpg?raw=true",
+        "blogImgCredit": "VRtualis"
 ]
