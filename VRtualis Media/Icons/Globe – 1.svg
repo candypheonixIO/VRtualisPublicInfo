@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-Globe_1">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="Globe_1" data-name="Globe – 1" clip-path="url(#clip-Globe_1)">
+    <g id="Group_6" data-name="Group 6" transform="translate(-10.5 -10.5)">
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="75" cy="75" r="75" transform="translate(64 64)" fill="none" stroke="#8ecccc" stroke-width="16"/>
+      <ellipse id="Ellipse_5" data-name="Ellipse 5" cx="30.705" cy="75" rx="30.705" ry="75" transform="translate(108.461 64)" fill="none" stroke="#8ecccc" stroke-width="16"/>
+      <g id="Group_9" data-name="Group 9" transform="translate(74.576 105.716)">
+        <path id="Path_8" data-name="Path 8" d="M130.554-6.195S97.915-19.5,65.277-19.5,0-6.195,0-6.195" transform="translate(0 74.086)" fill="none" stroke="#8ecccc" stroke-linecap="round" stroke-width="16"/>
+        <path id="Path_9" data-name="Path 9" d="M130.554,13.305S97.915,0,65.277,0,0,13.305,0,13.305" transform="translate(130.554 13.305) rotate(180)" fill="none" stroke="#8ecccc" stroke-linecap="round" stroke-width="16"/>
+      </g>
+    </g>
+  </g>
+</svg>
