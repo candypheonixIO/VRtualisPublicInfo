@@ -25,5 +25,14 @@
         "body": "For most worlds in NeosVR, Baked lighting is a dream to have, but for us at VRtualis, we have our methods of creating, performant, and beutiful Reflections, and Lightmap data that is NeosVR friendly.",
         "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-29%2020.55.09.jpg?raw=true",
         "blogImgCredit": "VRtualis"
+    },
+    {
+        "id": 3,
+        "title": "Simple Living",
+        "headline": "A VRtualis Metahome made with baked lighting! Again!",
+        "subhead": "Smaller homes can be cozy",
+        "body": "Yet another, smaller, metahome for NeosVR users to have as their cloud home to spawn in and have a chill place to hang out when the metaverse gets alittle to busy.",
+        "blogImage": "https://cdna.artstation.com/p/assets/images/images/025/670/790/large/jake-williams-2020-04-10-13-23-10.jpg?1586546864",
+        "blogImgCredit": "VRtualis"
     }
 ]
