@@ -1,9 +1,17 @@
 [
     {
-        "id": 1,
-        "name": "SmolCookie",
-        "memberIcon": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/small/squared%20profile_small.png?raw=true",
-        "bio": "VRtualis founder",
-        "teamID": {"Logix": true, "Eviromental": false, "Models": true}
+        "id" : 0,
+        "name" : "SmolCookie",
+        "profilePicture" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/small/squared%20profile_small.png?raw=true",
+        "data" : {
+            "bio" : {
+                "text" : "VRtualis founder"
+            },
+            "role" : {
+                "logix" : true,
+                "env" : false,
+                "model" : true
+            } 
+        }
     }
 ]
