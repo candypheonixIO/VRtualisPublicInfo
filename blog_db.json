@@ -1,38 +1,133 @@
 [
     {
-        "id": 0,
-        "title": "Hello World",
-        "headline": "VRtualis has entered the lobby",
-        "subhead": "Hello World",
-        "body": "VRtualis has officialy started, and is ready to serve the NeosVR community as a large freelanceing and volenteer community! Talented Logix Wizards, Enviromental Artists, and Modeling Artists are ready to help new uers and veteran players alike, from learning how the game works to building the next big project, together VRtualis is here to help build the Metaverse of Tomorrow!",
-        "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/small/ico-sphere-small.jpg?raw=true",
-        "blogImgCredit": "VRtualis"
+        "id" : 0,
+        "title" : "Hello World",
+        "headline" : "VRtualis has entered the lobby",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/small/ico-sphere-small.jpg?raw=true",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "Hello World"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "VRtualis has officialy started, and is ready to serve the NeosVR community as a large freelanceing and volenteer community! Talented Logix Wizards, Enviromental Artists, and Modeling Artists are ready to help new uers and veteran players alike, from learning how the game works to building the next big project, together VRtualis is here to help build the Metaverse of Tomorrow!"
+                }
+            }
+        ]
     },
     {
-        "id": 1,
-        "title": "Paris Loft",
-        "headline": "VRtualis' First \"Metahome\"",
-        "subhead": "Our first metahome is public!",
-        "body": "For any and all NeosVR players looking for a new Cloud Home to live your days in the metaverse in, look no further than our first official metahome, aiming to simulate what it would be like to live in the Urban streets of Paris.",
-        "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-22%2016.16.40.jpg?raw=true",
-        "blogImgCredit": "VRtualis"
+        "id" : 1,
+        "title" : "Paris Loft",
+        "headline" : "VRtualis' first Metahome",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-22%2016.16.40.jpg?raw=true",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "Our first metahome is public!"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "For any and all NeosVR players looking for a new Cloud Home to live your days in the metaverse in, look no further than our first official metahome, aiming to simulate what it would be like to live in the Urban streets of Paris."
+                }
+            }
+        ]
     },
     {
-        "id": 2,
-        "title": "Modern Metahome",
-        "headline": "A VRtualis Metahome made with baked lighting!",
-        "subhead": "Baked lighting is amazing",
-        "body": "For most worlds in NeosVR, Baked lighting is a dream to have, but for us at VRtualis, we have our methods of creating, performant, and beutiful Reflections, and Lightmap data that is NeosVR friendly.",
-        "blogImage": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-29%2020.55.09.jpg?raw=true",
-        "blogImgCredit": "VRtualis"
+        "id" : 2,
+        "title" : "Modern Home",
+        "headline" : "A VRtualis metahome made with baked lighting!",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-03-29%2020.55.09.jpg?raw=true",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "Baked lighting is amazing"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "For most worlds in NeosVR, Baked lighting is a dream to have, but for us at VRtualis, we have our methods of creating, performant, and beutiful Reflections, and Lightmap data that is NeosVR friendly."
+                }
+            }
+        ]
     },
     {
-        "id": 3,
-        "title": "Simple Living",
-        "headline": "A VRtualis Metahome made with baked lighting! Again!",
-        "subhead": "Smaller homes can be cozy",
-        "body": "Yet another, smaller, metahome for NeosVR users to have as their cloud home to spawn in and have a chill place to hang out when the metaverse gets alittle to busy.",
-        "blogImage": "https://cdna.artstation.com/p/assets/images/images/025/670/790/large/jake-williams-2020-04-10-13-23-10.jpg?1586546864",
-        "blogImgCredit": "VRtualis"
+        "id" : 3,
+        "title" : "Simple Living",
+        "headline" : "A VRtualis metahome made with baked lighting! Again!",
+        "coverImage" : "https://cdna.artstation.com/p/assets/images/images/025/670/790/large/jake-williams-2020-04-10-13-23-10.jpg?1586546864",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "Smaller homes can be cozy."
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "Yet another, smaller, metahome for NeosVR users to have as their cloud home to spawn in and have a chill place to hang out when the metaverse gets alittle to busy."
+                }
+            }
+        ]
+    },
+    {
+        "id" : 4,
+        "title" : "BlueLITE Gen3",
+        "headline" : "First VRtulis product for all NeosVR users alike",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-04-25%2016.21.17.jpg?raw=true",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "Finally a Gen3"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "One thing that you, as the user, may or may not notice, there are no longer existing Gen1 or Gen2 BlueLITE blueprints archived, like other products that have been made. This choise was made to keep the folder clean and not have \"too many choises\" provided by us."
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "Gen3 does how ever, use a similar setup to Gen1, it uses 3D quads for the physical aspect of grabbing your nodes and the scale handle for changing the size of your workspace."
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-04-25%2016.21.27.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "The UIX portion of BlueLITE Gen3 is used for other interactions and decals like, titles, changing between workspace and compact, and toggling grabbable."
+                }
+            }
+        ]
     }
 ]
