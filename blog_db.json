@@ -129,5 +129,119 @@
                 }
             }
         ]
+    },
+    {
+        "id" : 5,
+        "title" : "BlueLITE Gen4",
+        "headline" : "A benefitial update to your workflow!",
+        "coverImage" : "",
+        "coverCredit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "BlueLTE Gen4"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "Some issues with Gen3 have been fixed! starting with your nodes, and accidental placement of itesm on the board are now removable. Also, finding the \"DevPacked\" option is now easier, it is now a bright red slot on the main hierarchy of the blueprint."
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "For those that work in small and large avatars, there is a autoscale feature to the blueprint wich will locally scale a placed node to 1,1,1 to keep it all uniform to the blueprint."
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "Also, the UI has been changed to follow the length of the board, and provides a slimmer look. I've also re-added the input and output relay options, these are really useful for those that like to make prefab blueprints with a common function that they might want to share or use later."
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.12.12.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.12.55.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            }
+        ]
+    },
+    {
+        "id" : 6,
+        "title" : "YouTube Player v2",
+        "headline" : "Let's bring something familiar into neos.",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.15.16.jpg?raw=true",
+        "coverCreadit" : "VRtualis",
+        "blocks" : [
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 2,
+                    "text" : "YouTube Player v2"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "So for those that enjoyed the previous version of the YouTube player, I'm hopping you are going to like this one alot more! The UI can changed ever so slightly just to follow the YouTube style & layout more closely, just to make it that much more familiar."
+                }
+            },
+            {
+                "type" : "Header",
+                "data" : {
+                    "level" : 1,
+                    "text" : "This is a work in progress item!"
+                }
+            },
+            {
+                "type" : "Paragraph",
+                "data" : {
+                    "text" : "This item is currently still work in progress, there are still some planned and unfinished features for this item, but you can still use it for playlists and searching videos! just locate it in \"[PUBLIC] VRtualis > WIP Itmes > YouTube Player > v2\" and use the last one."
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.14.20.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.14.47.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            },
+            {
+                "type" : "Image",
+                "file" : {
+                    "url": "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.15.17.jpg?raw=true"
+                },
+                "data" : {
+                    "shadow" : true
+                }
+            }
+        ]
     }
 ]
