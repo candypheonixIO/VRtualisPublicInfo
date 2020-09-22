@@ -134,7 +134,7 @@
         "id" : 5,
         "title" : "BlueLITE Gen4",
         "headline" : "A benefitial update to your workflow!",
-        "coverImage" : "",
+        "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.12.12.jpg?raw=true",
         "coverCredit" : "VRtualis",
         "blocks" : [
             {
@@ -187,7 +187,7 @@
         "title" : "YouTube Player v2",
         "headline" : "Let's bring something familiar into neos.",
         "coverImage" : "https://github.com/candypheonixIO/VRtualisPublicInfo/blob/master/VRtualis%20Media/resize/medium/2020-09-22%2018.15.16.jpg?raw=true",
-        "coverCreadit" : "VRtualis",
+        "coverCredit" : "VRtualis",
         "blocks" : [
             {
                 "type" : "Header",
