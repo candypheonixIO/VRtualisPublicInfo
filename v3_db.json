@@ -75,7 +75,7 @@
             "headline":"Lorem Ipsum",
             "cover":"https://via.placeholder.com/512x1024",
             "coverCredit":"Placeholder.com",
-            "block":[
+            "blocks":[
                 {
                     "type":"header",
                     "data":{
