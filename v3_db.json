@@ -32,6 +32,29 @@
                     "data":{
                         "content":"SmolCookie, the creator of the YouTube player, and the CEO of VRtualis spent time, looking back on older video players that he had created, and had taken in feedback from the community about what they wanted, and what they didn't want. So after months of work, the \"VRtualis YouTube Player\" is now available in the \"VRtualis\" public folder!"
                     }
+                },
+                {
+                    "type":"paragraph",
+                    "data":{
+                        "content":"Here is a list of everything you need to know about the media player."
+                    }
+                },
+                {
+                    "type":"list",
+                    "listItems":[
+                        {
+                            "itemContent":"Uses the V3 YouTube Data API"
+                        },
+                        {
+                            "itemContent":"Localized valume"
+                        },
+                        {
+                            "itemContent":"Search and Playlist cacheing"
+                        },
+                        {
+                            "itemContent":"Playlist cache persistance for saving in your inventory with minimal storage consumption."
+                        }
+                    ]
                 }
             ],
             "gallary":[
@@ -51,6 +74,159 @@
                     "type":"image",
                     "file":{
                         "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/youtubeplayer/2021-01-04%2021.19.22.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "pid":1,
+            "title":"Nsomina",
+            "headline":"Every network engineer's best friend.",
+            "cover":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.33.39.jpg",
+            "coverCredit":"VRtualis",
+            "blocks":[
+                {
+                    "type":"header",
+                    "data":{
+                        "level":1,
+                        "content":"VRtualis' networking tool."
+                    }
+                },
+                {
+                    "type":"header",
+                    "data":{
+                        "level":2,
+                        "content":"Inspired by the Insomnia rest client."
+                    }
+                },
+                {
+                    "type":"paragraph",
+                    "data":{
+                        "content":"This tool has some features that others have missed out on, one of the more convenient ones being the query parsing, taking multiple GET queries and parsing them into a raw url that will be used in the GET method."
+                    }
+                }
+            ],
+            "gallary":[
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.31.30.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.31.40.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.32.33.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.33.39.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "pid":2,
+            "title":"VRtualis Keyboard",
+            "headline":"VRtualis' flagship custom keyboard",
+            "cover":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.23.47.jpg",
+            "coverCredit":"VRtualis",
+            "blocks":[
+                {
+                    "type":"header",
+                    "data":{
+                        "level":1,
+                        "content":"VRtualis flagship custom keyboard"
+                    }
+                },
+                {
+                    "type":"paragraph",
+                    "data":{
+                        "content":"Those that are looking for a new keyboard, one that you can truly customise and set your workflow in a new direction, VRtualis has made something that might help you with that!"
+                    }
+                },
+                {
+                    "type":"paragraph",
+                    "data":{
+                        "content":"There are other \"custom\" keyboards floating around, but they still have yet to diverge from the grid template, simple keyboard, we instead built ours from scratch, trying to bring back the layout we all know and love that sits on our desk."
+                    }
+                },
+                {
+                    "type":"list",
+                    "listItems":[
+                        {
+                            "itemContent":"You can create custom themes"
+                        },
+                        {
+                            "itemContent":"Share custom themes"
+                        },
+                        {
+                            "itemContent":"Change the keyboard size from 100% -> 80% -> 65%"
+                        }
+                    ]
+                },
+                {
+                    "type":"paragraph",
+                    "data":{
+                        "content":"When we say \"custom keyboard\", we mean \"custom keyboard\"."
+                    }
+                }
+            ],
+            "gallary":[
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.23.47.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.24.09.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.24.45.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.25.20.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.25.25.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.25.50.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.26.03.jpg"
+                    }
+                },
+                {
+                    "type":"image",
+                    "file":{
+                        "content":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.26.07.jpg"
                     }
                 }
             ]
