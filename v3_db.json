@@ -2,6 +2,8 @@
     "projects":[
         {
             "pid":0,
+            "featured":true,
+            "type":"Entertainment",
             "title":"VRtualis YouTube player",
             "headline":"VRtualis' flagship entertainment",
             "cover":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/youtubeplayer/2021-01-04%2021.19.22.jpg",
@@ -46,7 +48,7 @@
                             "itemContent":"Uses the V3 YouTube Data API"
                         },
                         {
-                            "itemContent":"Localized valume"
+                            "itemContent":"Localized volume"
                         },
                         {
                             "itemContent":"Search and Playlist cacheing"
@@ -80,6 +82,8 @@
         },
         {
             "pid":1,
+            "featured":false,
+            "type":"Tool",
             "title":"Nsomina",
             "headline":"Every network engineer's best friend.",
             "cover":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/nsomnia/2020-11-25%2012.33.39.jpg",
@@ -135,6 +139,8 @@
         },
         {
             "pid":2,
+            "featured":true,
+            "type":"Tool",
             "title":"VRtualis Keyboard",
             "headline":"VRtualis' flagship custom keyboard",
             "cover":"https://raw.githubusercontent.com/candypheonixIO/VRtualisPublicInfo/master/VRtualis%20Media/resize/medium/vrtualiskeyboard/2020-11-25%2012.23.47.jpg",
@@ -254,6 +260,15 @@
                     }
                 },
                 {
+                    "type":"image",
+                    "file":{
+                        "content":"https://via.placeholder.com/512"
+                    },
+                    "data":{
+                        "shadow":true
+                    }
+                },
+                {
                     "type":"list",
                     "listItems":[
                         {
@@ -268,35 +283,6 @@
                             "itemContent":"Hello world!"
                         }
                     ]
-                }
-            ],
-            "gallary":[
-                {
-                    "type":"image",
-                    "file":{
-                        "content":"https://via.placeholder.com/512"
-                    },
-                    "data":{
-                        "shadow":true
-                    }
-                },
-                {
-                    "type":"image",
-                    "file":{
-                        "content":"https://via.placeholder.com/512"
-                    },
-                    "data":{
-                        "shadow":true
-                    }
-                },
-                {
-                    "type":"image",
-                    "file":{
-                        "content":"https://via.placeholder.com/512"
-                    },
-                    "data":{
-                        "shadow":true
-                    }
                 }
             ]
         }
